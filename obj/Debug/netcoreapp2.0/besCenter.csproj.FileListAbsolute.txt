@@ -1,0 +1,11 @@
+C:\Users\Stark\source\repos\besCenter\besCenter\bin\Debug\netcoreapp2.0\besCenter.deps.json
+C:\Users\Stark\source\repos\besCenter\besCenter\bin\Debug\netcoreapp2.0\besCenter.runtimeconfig.json
+C:\Users\Stark\source\repos\besCenter\besCenter\bin\Debug\netcoreapp2.0\besCenter.runtimeconfig.dev.json
+C:\Users\Stark\source\repos\besCenter\besCenter\bin\Debug\netcoreapp2.0\besCenter.dll
+C:\Users\Stark\source\repos\besCenter\besCenter\bin\Debug\netcoreapp2.0\besCenter.pdb
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.csprojResolveAssemblyReference.cache
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.csproj.CoreCompileInputs.cache
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.AssemblyInfoInputs.cache
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.AssemblyInfo.cs
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.dll
+C:\Users\Stark\source\repos\besCenter\besCenter\obj\Debug\netcoreapp2.0\besCenter.pdb
